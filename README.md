@@ -1,5 +1,5 @@
 # MLCP Particle Phyiscs Sandbox
-This is MATLAB implementation of a 2D particle physics simulation based on solving MLCP (Mixed Linear Complementarity Problem) problem using Projected Gauss-Seidel method.<br />
+This is a MATLAB implementation of a 2D particle physics simulation based on solving MLCP (Mixed Linear Complementarity Problem) problem using Projected Gauss-Seidel method.<br />
 It is based on a model designed by Erin Catto and presented in this article: https://box2d.org/files/ErinCatto_IterativeDynamics_GDC2005.pdf
 
 # Motivation
