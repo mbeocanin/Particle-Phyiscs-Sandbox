@@ -22,7 +22,7 @@
 
 % Example 1: Ball Stack
 % Demonstrates physics simulation model presented in this article:
-% <http://box2d.org/files/GDC2005/IterativeDynamics.pdf>
+% <https://box2d.org/files/ErinCatto_IterativeDynamics_GDC2005.pdf>
 
 clc
 clear all
