@@ -2,6 +2,9 @@
 This is a MATLAB implementation of a 2D particle physics simulation based on solving MLCP problem (Mixed Linear Complementarity Problem) using Projected Gauss-Seidel method.<br />
 It is based on a model designed by Erin Catto and presented in this article: https://box2d.org/files/ErinCatto_IterativeDynamics_GDC2005.pdf
 
+# Preview
+https://www.youtube.com/watch?v=cBL4SRJROPE
+
 # Motivation
 This project was made with the idea in mind to explore the original (pure math-based) approach to solving the MLCP problem (mentioned in the article above). It has since been surpassed by Sequential Impulse Method (https://box2d.org/files/ErinCatto_SequentialImpulses_GDC2006.pdf) which is more programmer friendly, reduces some serious performance drawbacks and provides additional flexibility in controlling the simulation compared to the original approach.<br />
 Examples in this project are provided for learning purposes, since to my knowledge no other simple and compact implementation of the original approach exists elsewhere.
